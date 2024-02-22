@@ -1,0 +1,6 @@
+com\pherment\ptown\commands\PTabCompleter.class
+com\pherment\ptown\utils\Town.class
+com\pherment\ptown\events\RegionListener.class
+com\pherment\ptown\PTown.class
+com\pherment\ptown\commands\PCommand.class
+com\pherment\ptown\configs\PConfig.class

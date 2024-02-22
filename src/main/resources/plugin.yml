@@ -1,0 +1,11 @@
+name: PTown
+version: '${project.version}'
+author: Pherment
+main: com.pherment.ptown.PTown
+api-version: '1.20'
+
+commands:
+  ptown:
+    usage: /ptown <arg>
+    aliases:
+      - pt
